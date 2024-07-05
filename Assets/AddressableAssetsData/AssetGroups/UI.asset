@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1155f2bb1addcaf4980a5059c68581d0
+  m_SerializeEntries:
+  - m_GUID: 29d0358818779a04897e1032c05d0da5
+    m_Address: BossGameLosePanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI
+  - m_GUID: ab80470e5b17b8b4da56f4d7269cacf1
+    m_Address: BossGamePanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI
+  - m_GUID: 84786662852f3a04f8b82da797a54bf7
+    m_Address: BossGameWinPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI
+  - m_GUID: ed73f5638980d364cb7a5fe243df69bc
+    m_Address: CountDownPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI
+  - m_GUID: fc37b9e708cc07a4f87dbac317116d04
+    m_Address: BossPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1f9f3d052a19dd84aa748694250743c8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 100213d001fa7d14399c54dcfa6ccb91, type: 2}
+    - {fileID: 11400000, guid: 45875f4e0b231f941ac59f8a30fca106, type: 2}
